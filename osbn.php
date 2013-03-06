@@ -3,7 +3,7 @@
  * Plugin Name: OSBN
  * Plugin URI: http://osbn.de/
  * Description: Dies ist das offizielle WordPress-Plugin f&uuml;r Mitglieder des Open-Source-Blog-Netzwerkes (OSBN).
- * Version: 1.2.0
+ * Version: 1.1.2
  * Author: Valentin <admin@picomol.de>
  * Author URI: http://picomol.de/
  * URI: http://osbn.de/
