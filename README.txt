@@ -2,7 +2,7 @@
 Contributors: simpson-fan
 Requires at least: 3.3
 Tested up to: 3.5.1
-Version: 1.1.1
+Stable Tag: 1.1.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -40,3 +40,4 @@ The plugin calls back to the osbn.de server hourly and loads the last articlelis
                      Last updated time removed
                      Fixed bug with osbn.de-link when logo disabled
 1.1.1 | 02.03.2013 - Readme updated
+1.1.2 | 06.03.2013 - Uploaded to wordpress.org (http://wordpress.org/extend/plugins/osbn/)
